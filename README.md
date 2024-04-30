@@ -1,4 +1,4 @@
-# Booker-RestAssured
+# Booking.app
 
 ## Construido con 🛠️
 
